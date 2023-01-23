@@ -14,9 +14,8 @@
 
 *italics*
 
+- Ivan Andreu Racon [google] (www.youtube.com)
 - Kendra V. Dickinson [google](https://datasciencedojo.com/blog/data-science-memes/)
-
-
 - Alejandro [google](www.google.com)
 - Stephanie Rodriguez [google](www.google.com)
 - Laura Ramirez [mundo](www.elmundo.es)
