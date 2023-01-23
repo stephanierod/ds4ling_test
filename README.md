@@ -15,5 +15,5 @@
 *italics*
 
 
-Isabelle Chang [new york times](www.nytimes.com/)
+Isabelle Chang [new york times](https://www.nytimes.com/)
 
