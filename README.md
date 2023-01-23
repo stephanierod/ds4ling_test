@@ -14,8 +14,8 @@
 
 *italics*
 
-Hyunjung Joo [google](www.google.com)
-
+- Meritxell Feliu Ribas [RUbilingual] (https://rubilingual.weebly.com/)
+- Hyunjung Joo [google](www.google.com)
 - Robert Esposito [duolingo](duolingo.com)
 - Nayantara Das (google)(www.google.com)
 - Isabelle Chang [new york times](https://www.nytimes.com/)
