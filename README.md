@@ -1,20 +1,6 @@
 # ds4ling_test
 
-## THis is a subsection
-
-### subsubsection
-
-1. Part one
-2. part 2twoksldjsd
-
-- line one
-- line 2
-
-**Bold text**
-
-*italics*
-
-- Ivan Andreu Racon [google] (www.youtube.com)
+- Ivan Andreu Racon [google](www.youtube.com)
 - Kendra V. Dickinson [google](https://datasciencedojo.com/blog/data-science-memes/)
 - Alejandro [google](www.google.com)
 - Stephanie Rodriguez [google](www.google.com)
