@@ -1,2 +1,18 @@
 # ds4ling_test
-Test for class
+
+## THis is a subsection
+
+### subsubsection
+
+1. Part one
+2. part 2twoksldjsd
+
+- line one
+- line 2
+
+**Bold text**
+
+*italics*
+
+[my website](www.jvcasillas.com)
+
