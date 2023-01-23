@@ -14,5 +14,4 @@
 
 *italics*
 
-[my website](www.jvcasillas.com)
 
