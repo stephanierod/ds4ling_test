@@ -14,6 +14,7 @@
 
 *italics*
 
+Hyunjung Joo [google](www.google.com)
 
 - Robert Esposito [duolingo](duolingo.com)
 - Nayantara Das (google)(www.google.com)
