@@ -14,5 +14,5 @@
 
 *italics*
 
-Hyunjung Joo [google][www.google.com]
+Hyunjung Joo [google](www.google.com)
 
