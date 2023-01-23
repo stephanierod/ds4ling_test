@@ -16,3 +16,6 @@
 
 
 - Robert Esposito [duolingo](duolingo.com)
+- Nayantara Das (google)(www.google.com)
+- Isabelle Chang [new york times](https://www.nytimes.com/)
+- Joseph Casillas [google](www.google.com)
