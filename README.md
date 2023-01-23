@@ -14,4 +14,6 @@
 
 *italics*
 
+-Kendra V. Dickinson- [google](https://datasciencedojo.com/blog/data-science-memes/)
+
 
